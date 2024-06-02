@@ -1,12 +1,10 @@
-//
-// Created by יהודה on 18/03/2024.
-//
-#include <iostream>
-#include <string>
+
 
 #ifndef PUZZLE_GAME_IN_GROUPS_GROUPS_H
 #define PUZZLE_GAME_IN_GROUPS_GROUPS_H
-
+#include <iostream>
+#include <cstring>
+using namespace std;
 
 class groups {
 private:
